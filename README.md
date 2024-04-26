@@ -3,11 +3,9 @@ A bank app, where you c an check out bank account of 4 persons, request a loan, 
 ![Bankist-flowchart](https://github.com/selmaGharbi/Bankist_App_1/assets/167712525/db1fe352-15bc-4bfe-aa94-d09506208271)
 
 In this app, there are 4 users, with below credentials:
-username  pin
-js        1111
-jd        2222
-stw        3333
-ss       4444
+(username, pin) : (js,1111), (jd, 2222) , (stw, 3333), (ss, 4444)
+
+
 
 Every user can log in to their account and have the options to: 
 1. Transfer money to another user : The user should be one of our 3 other users, the amount of money to be transformed should be less than or equal to balance of current user and it should not be zero or negative ammount.
